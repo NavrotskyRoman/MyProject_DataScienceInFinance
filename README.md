@@ -1,3 +1,3 @@
 # MyProject_DataScienceInFinance
 
-It is notebook for my 3-th project task
+Here is notebooks for my Data Science in Finance tasks
